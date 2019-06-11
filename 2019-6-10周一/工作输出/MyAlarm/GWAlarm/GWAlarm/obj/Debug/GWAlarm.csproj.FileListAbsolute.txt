@@ -1,0 +1,6 @@
+F:\重庆深感为物联网科技有限公司\GWAlarm\GWAlarm\bin\Debug\GWAlarm.dll
+F:\重庆深感为物联网科技有限公司\GWAlarm\GWAlarm\bin\Debug\GWAlarm.pdb
+F:\重庆深感为物联网科技有限公司\GWAlarm\GWAlarm\obj\Debug\GWAlarm.dll
+F:\重庆深感为物联网科技有限公司\GWAlarm\GWAlarm\obj\Debug\GWAlarm.pdb
+D:\AlarmCenter\dll\GWAlarm.dll
+D:\AlarmCenter\dll\GWAlarm.pdb
