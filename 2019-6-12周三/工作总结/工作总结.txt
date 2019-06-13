@@ -1,0 +1,1 @@
+今天主要遇到了jdk无法运行，在安装新的JDK时，会将java.exe、javaw.exe、javaws.exe三个可执行文件复制到了C:\Windows\System32目录，这个目录在WINDOWS环境变量中的优先级高于JAVA_HOME设置的环境变量优先级，所以要将这个目录中这三个文件删除。
